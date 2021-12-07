@@ -12,7 +12,7 @@
   year      = {2021},
 }
 ```
-
+See the related publication here (in German): https://pub.h-brs.de/frontdoor/index/index/docId/6021
 
 ## About MirrorMe
 Social media has become a major part of numerous lives through websites and apps, and people have been able to connect with others and 
