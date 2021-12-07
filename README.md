@@ -1,5 +1,19 @@
 # MirrorMe
 
+```bibtex
+@inproceedings{gruenewald2021datensouveränität,
+  author    = {Elias Grünewald and Frank Pallas},
+  title     = {Datensouveränität für Verbraucher:innen: Technische Ansätze durch KI-basierte Transparenz und Auskunft im Kontext der DSGVO},
+  series = {Alexander Boden, Timo Jakobi, Gunnar Stevens, Christian Bala (Hgg.): Verbraucherdatenschutz - Technik und Regulation zur Unterstützung des Individuums},
+  isbn      = {978-3-96043-095-7},
+  doi       = {10.18418/978-3-96043-095-7\_02},
+  url       = {https://nbn-resolving.org/urn:nbn:de:hbz:1044-opus-60219},
+  pages     = {1 -- 17},
+  year      = {2021},
+}
+```
+
+
 ## About MirrorMe
 Social media has become a major part of numerous lives through websites and apps, and people have been able to connect with others and 
 share their thoughts, emotions, experiences... The ability to share photos, opinions, and events in real-time has transformed the way 
